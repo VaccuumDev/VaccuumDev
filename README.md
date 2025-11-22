@@ -17,9 +17,9 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 
 ## 🚀 Projects
 - **B‑World** — main project suite:
-  - B‑World‑engine — game engine (C++ / Rust)
-  - B‑World‑launcher — launcher and updater
-  - B‑World‑website — project site (React)
+  - B-Engine — game engine (C++ / Rust)
+  - B‑Launcher — launcher and updater
+  - b‑world‑website — project site (React)
 - Misc: small tools and utilities
 
 ## 🧰 Tools & badges
