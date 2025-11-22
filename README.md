@@ -7,8 +7,6 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ## 🔭 Current focus
 - **B‑World** — engine, launcher, and Website (primary repositories on my profile).
 
----
-
 ## 🛠 Skills
 - **Languages:** C++, Rust, C#
 - **Frontend:** React (a couple of repos)  
@@ -22,9 +20,7 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
   - B‑World‑engine — game engine (C++ / Rust)
   - B‑World‑launcher — launcher and updater
   - B‑World‑website — project site (React)
-- Misc: small React tools and utilities
-
----
+- Misc: small tools and utilities
 
 ## 🧰 Tools & badges
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -33,17 +29,6 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white)
 
----
-
-## 📂 Repo layout
-|---|---|
-| Repository | Purpose |
-| B‑Engine | Game engine (C++ / Rust) |
-| B‑Launcher | Launcher + Installator (C#) |
-| b-world‑website | WebSite (React) |
-| antidoxx | tg username rotator utility (Rust) |
-
----
 
 ## 📫 Find me
 - Tg: https://t.me/VaccuumGames
@@ -53,5 +38,5 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ## Opinionated note
 I prefer performance and explicitness — C++, Rust, C# over "five‑line" scripting fads. Python: fondly tolerated elsewhere, not on my machine.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourName&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaccuumDev&layout=compact)
 
