@@ -10,7 +10,7 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ## 🛠 Skills
 - **Languages:** C++, Rust, C#
 - **Frontend:** React (a couple of repos)  
-- **OS:** Arch Linux (yes, I reboot for the learning experience)  
+- **OS:** Arch Linux (BTW)  
 - **Hardware:** microcomputers, embedded tinkering
 
 ---
