@@ -18,7 +18,7 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ## 🚀 Projects
 - **B‑World** — main project suite:
   - B-Engine — game engine (C++ / Rust)
-  - B‑Launcher — launcher and updater
+  - B‑Launcher — launcher and updater (C#)
   - b‑world‑website — project site (React)
 - Misc: small tools and utilities
 
@@ -38,5 +38,5 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ## Opinionated note
 I prefer performance and explicitness — C++, Rust, C# over "five‑line" scripting fads. Python: fondly tolerated elsewhere, not on my machine.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaccuumDev&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaccuumDev&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
