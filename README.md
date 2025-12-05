@@ -36,5 +36,6 @@ Desktop software developer and game maker. Main thing: **B‑World** (My game). 
 ---
 
 ## Opinionated note
-I prefer performance and explicitness — C++, Rust, C# over "five‑line" scripting fads. Python: fondly tolerated elsewhere, not on my machine.
+I prefer performance and explicitness — C++, Rust, C# over "five‑line" scripting fads.
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VaccuumDev?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
